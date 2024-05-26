@@ -1,8 +1,13 @@
-# React + Vite
+#QR code Scanner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Based Project
 
-Currently, two official plugins are available:
+Run Comment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm run dev
+
+The output images are in the repository.
+
+I developed this currency converter web application using React.js and an API. I will include the API link in the description.
+
+API Link : https://v6.exchangerate-api.com/v6/46d2d286f827a87005a27870/latest/USD
