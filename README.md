@@ -1,7 +1,3 @@
-Here’s a README template for your QR Code Scanner project:
-
----
-
 # QR Code Scanner
 
 ## Project Overview
@@ -41,7 +37,7 @@ This is a QR Code Scanner application built using React.js. The app allows users
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/qr-code-scanner.git
+git clone https://github.com/LokeshS1411/QR-Code-Scannar.git
 cd qr-code-scanner
 ```
 
